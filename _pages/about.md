@@ -10,6 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<img src="/images/avatar.jpg" alt="Shichao Weng" width="220" />
+
 My name is **Shichao Weng**.  
 I am currently an **Embodied Intelligence Researcher**.
 
