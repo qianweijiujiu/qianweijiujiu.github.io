@@ -28,8 +28,10 @@ In the long run, I am deeply interested in **World Models**, aiming to build age
   - Connecting natural language instructions, visual perception, and sequential decision-making.
 - **World Models**
   - Learning internal models that predict future states for planning, long-horizon reasoning, and data-efficient learning.
+- **Causal Inference**
+  - Understanding and modeling cause–effect relationships for decision-making and robust generalization.
 - **Long-term Goal**
-  - Explore a unified framework that combines **World Models** and **Embodied Intelligence**, so that agents can not only “see and act”, but also “imagine and simulate”.
+  - Explore a unified framework that combines **World Models**, **Causal Inference**, and **Embodied Intelligence**, so that agents can not only “see and act”, but also “imagine, reason, and simulate”.
 
 ---
 
@@ -71,13 +73,15 @@ You can continue to update real news, publications, and milestones here.
 
 ---
 
-### 📄 Selected Publications (Placeholders)
+### 📄 Selected Publications
 
-> Replace the entries below with your real papers / projects when ready.
+- **Large Language Model Compression with Global Rank and Sparsity Optimization**  
+  *International Conference on Learning Representations (ICLR), 2025.*  
+  [arXiv](http://arxiv.org/html/2505.03801v3)
 
-- **Paper Title / Project Name (Example)**  
-  *Conference / Journal, Year.*  
-  [arXiv]()(optional) [Code]()(optional) [Project]()(optional)
+- **GeoSketch: A Neural-Symbolic Approach to Geometric Multimodal Reasoning with Auxiliary Line Construction and Affine Transformation**  
+  *arXiv preprint, 2025.*  
+  [arXiv](http://arxiv.org/abs/2509.22460)
 
 ---
 
@@ -93,10 +97,14 @@ Once you decide which contact information to make public, you can fill in:
 
 ### 🌱 Misc
 
-Beyond the engineering aspects, I am also curious about the **philosophical side** of embodied intelligence:
+Outside of core research, I am interested in **quantitative investment**,  
+especially using **traditional machine learning** and **causal inference** methods  
+for **factor mining** and **correlation/causal analysis** in financial markets.
+
+I am also curious about the **philosophical side** of embodied intelligence:
 
 - What is the relationship between **world models** and human imagination or mental simulation?
 - Do truly general embodied agents need some form of **internal narrative** to understand and organize experience?
 
-If you are also thinking about these questions, feel free to reach out.
+If you are also thinking about these questions—or about combining **AI and quantitative finance**—feel free to reach out.
 
