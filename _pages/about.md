@@ -46,6 +46,8 @@ If you are interested in **Embodied AI, VLA, RL, or World Models**, I am always 
 
 ### 🐱 Hypatia — My Ragdoll Cat
 
+<img src="/images/hypatia.jpg" alt="Hypatia the Ragdoll cat" width="260" />
+
 Outside research, I live with a lovely Ragdoll cat named **Hypatia**,  
 named after the ancient Greek philosopher and mathematician.
 
