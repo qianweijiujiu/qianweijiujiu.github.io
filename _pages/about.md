@@ -85,6 +85,21 @@ You can continue to update real news, publications, and milestones here.
 
 ---
 
+### 💻 Work Experience / Research Internships
+
+- **Research Intern, iFLYTEK**  
+  - Worked on **post-training for foundation models**, focusing on improving **mathematical reasoning capabilities**.
+
+- **Research Intern, Soul App (Soul AILab)**  
+  - Continued **continued pre-training** on large foundation models,  
+    with an emphasis on **capability injection** while **preserving world knowledge**.
+
+- **Research Intern, Dobot Robotics**  
+  - Conducted **Vision-Language Model (VLM) research** for robotic scenarios,  
+    exploring how multimodal models can better ground perception and actions.
+
+---
+
 ### 📫 Contact (To be updated)
 
 Once you decide which contact information to make public, you can fill in:
